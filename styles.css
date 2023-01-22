@@ -2,7 +2,7 @@ img {
     color: #141412;
     display: block;
     margin: 0 auto;
-    max-width: 1080px;
+    max-width: 100%;
     min-height: 460px;
     padding: 0 20px;
     text-decoration: none;
