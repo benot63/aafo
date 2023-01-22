@@ -1,0 +1,31 @@
+img {
+    color: #141412;
+    display: block;
+    margin: 0 auto;
+    max-width: 1080px;
+    min-height: 460px;
+    padding: 0 20px;
+    text-decoration: none;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td {
+    width: auto;
+}
+table, th, td {
+    border: 2px solid;
+    padding: 2px;
+}
+th {
+    background-color: rgb(93, 188, 247);
+}
